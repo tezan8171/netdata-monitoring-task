@@ -1,8 +1,8 @@
-# Netdata Monitoring Task – DevOps Internship
+# Netdata Monitoring Task 
 
 ## 📌 Overview
 
-This repository contains Task 7 from my DevOps internship, focused on monitoring system resources using Netdata — a lightweight, real-time monitoring tool.
+This repository contains Task  focused on monitoring system resources using Netdata — a lightweight, real-time monitoring tool.
 
 ## 🛠️ Tools Used
 
